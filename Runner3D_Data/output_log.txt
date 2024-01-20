@@ -1,0 +1,39 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     2033 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\apodr\OneDrive\Documentos\Unity\Runner3D\Runner3D\Runner3D_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 2128x1366 at 0,-37
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.468700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.013000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 801.
+Total: 0.821600 ms (FindLiveObjects: 0.108900 ms CreateObjectMapping: 0.071300 ms MarkObjects: 0.612100 ms  DeleteObjects: 0.026000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 68.531296 ms
+
+Unloading 498 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 1.182700 ms (FindLiveObjects: 0.092100 ms CreateObjectMapping: 0.089300 ms MarkObjects: 0.588800 ms  DeleteObjects: 0.409600 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6d1c -> priority: 1 
+  Thread -> id: 6f8c -> priority: 1 
