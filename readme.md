@@ -2,7 +2,7 @@
 <p>Jogo auto-runner infinito feito em Unity.</p>
 
 ## Como jogar
-<p>Baixe e execute o arquivo Runner3D.exe</p>
+<p>Baixe ou clone o repositório e execute o arquivo Runner3D.exe</p>
 <p>Desvie dos objetos para sobreviver, mas alguns objetos podem ser destruídos com tiro, como a parede de vidro e o boneco com alvo</p>
 <p>Controles:</p>
 
